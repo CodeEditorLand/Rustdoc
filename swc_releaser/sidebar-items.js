@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Cmd"],"fn":["bump_crate","commit","get_swc_core_version","main","run_bump"],"struct":["CliArs"]};

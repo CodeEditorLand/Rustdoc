@@ -1,0 +1,6 @@
+(function() {var implementors = {
+"swc_css_visit":[["impl&lt;'ast&gt; NodeRef for <a class=\"enum\" href=\"swc_css_visit/fields/enum.AstParentNodeRef.html\" title=\"enum swc_css_visit::fields::AstParentNodeRef\">AstParentNodeRef</a>&lt;'ast&gt;"]],
+"swc_ecma_visit":[["impl&lt;'ast&gt; NodeRef for <a class=\"enum\" href=\"swc_ecma_visit/fields/enum.AstParentNodeRef.html\" title=\"enum swc_ecma_visit::fields::AstParentNodeRef\">AstParentNodeRef</a>&lt;'ast&gt;"]],
+"swc_html_visit":[["impl&lt;'ast&gt; NodeRef for <a class=\"enum\" href=\"swc_html_visit/fields/enum.AstParentNodeRef.html\" title=\"enum swc_html_visit::fields::AstParentNodeRef\">AstParentNodeRef</a>&lt;'ast&gt;"]],
+"swc_xml_visit":[["impl&lt;'ast&gt; NodeRef for <a class=\"enum\" href=\"swc_xml_visit/fields/enum.AstParentNodeRef.html\" title=\"enum swc_xml_visit::fields::AstParentNodeRef\">AstParentNodeRef</a>&lt;'ast&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

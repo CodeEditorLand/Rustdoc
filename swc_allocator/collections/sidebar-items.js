@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["hash_map"],"type":["FxBuildHasher","FxHashMap","FxHashSet","HashMap","HashSet"]};

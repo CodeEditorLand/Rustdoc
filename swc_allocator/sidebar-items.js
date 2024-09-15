@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["Type","nightly_only"],"mod":["boxed","collections","maybe","vec"],"struct":["Allocator","FastAlloc"]};
